@@ -2,4 +2,4 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Gerald Belton Guitars and Stringed Instruments"
 
-theme = "mainroad"
+theme = "hugo-swift-theme"
