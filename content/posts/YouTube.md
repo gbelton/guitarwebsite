@@ -15,6 +15,6 @@ image = "artist.jpg"
 Testing how to embed a YouTube video
 
 
-{{< video "EVfio280aC0" >}}
+
 
 
