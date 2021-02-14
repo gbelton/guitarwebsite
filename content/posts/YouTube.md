@@ -6,8 +6,6 @@ categories: [
       "Music"
 ]
 
-draft: false
-
 image = "artist.jpg"
 
 +++
