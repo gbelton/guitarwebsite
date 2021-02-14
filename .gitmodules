@@ -1,3 +1,6 @@
 [submodule "themes/aether"]
 	path = themes/aether
 	url = https://github.com/gbelton/aether
+[submodule "themes/mainroad"]
+	path = themes/mainroad
+	url = https://github.com/vimux/mainroad
