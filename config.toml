@@ -1,5 +1,17 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Gerald Belton Guitars and Stringed Instruments"
-
+title = "Learning Lutherie"
 theme = "hugo-swift-theme"
+paginate = 4
+
+
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 2
+  [[menu.main]]
+    name = "My Academic Website"
+    url = "https://www.GeraldBelton.com"
+    weight = 3
