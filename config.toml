@@ -2,8 +2,21 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Learning Lutherie"
 theme = "hugo-swift-theme"
+copyright = "2021 Gerald Belton"
+authoer = "Gerald Belton"
 paginate = 4
 
+[params]
+  [params.designer]
+    name = "Gerald Belton"
+    
+  [[params.authors]]
+    name = "Gerald Belton" # can be nickname # if fullName 👇🏻 isn't set, name will be displayed on author card
+    fullName = "Gerald Belton" # optional. If set, it will display on author card
+    bio = "Just a guy that likes to build things."
+    #photo = "myPhotoFile.jpg"
+    
+    #url = "https://myURLofChoice.domain"
 
 
 [menu]
